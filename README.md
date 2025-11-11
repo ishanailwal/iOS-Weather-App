@@ -6,3 +6,7 @@
 
 API: open weather API
 UI Framework: SwiftUI
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-12 at 00 17 24" src="https://github.com/user-attachments/assets/963c6749-4d4c-45e1-9b7a-aa3ffd2603b1" />
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-12 at 00 17 31" src="https://github.com/user-attachments/assets/102166c9-fb68-4e67-9f66-4bf2986332c8" />
